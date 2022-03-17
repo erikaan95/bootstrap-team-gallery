@@ -1,0 +1,19 @@
+.title {
+    color: green
+}
+
+.custom-class {
+    display: none;
+}
+
+.fs-5 {
+    color: #198754;;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.col-3 {
+    color: #198754;;
+    font-style: italic;
+    font-weight: bold;
+}
